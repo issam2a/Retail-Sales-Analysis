@@ -26,6 +26,8 @@ explain_Exporting_sql.md
 
 archive (3).zip
 
-cleaning.py 
 
 Superstore_clean.csv
+
+
+.gitignore

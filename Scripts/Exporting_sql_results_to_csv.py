@@ -143,7 +143,7 @@ def run_queries():
             print(f"  -> Saved {name}.csv")
 
     conn.close()
-    print("✅ All queries executed and CSVs exported!")
+    print(" All queries executed and CSVs exported!")
 
 if __name__ == "__main__":
     run_queries()

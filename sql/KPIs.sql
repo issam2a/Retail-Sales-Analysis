@@ -26,6 +26,7 @@
     from sales
     group by ShipMode
     order by count(ShipMode);
+    
     -- One quiry Basic Exploration:
 		select count(*) as total_transactions ,
 			count(distinct CustomerID) as Customers_count,
